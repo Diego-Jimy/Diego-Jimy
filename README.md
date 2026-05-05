@@ -1,16 +1,35 @@
-## Hi there 👋
+# Diego Jimy Gonzales Ortiz
 
-<!--
-**Diego-Jimy/Diego-Jimy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador Full Stack en formación especializado en PHP, Laravel y MySQL.
 
-Here are some ideas to get you started:
+## Sobre mí
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Soy estudiante de Ingeniería de Software en SENATI con experiencia en desarrollo de sistemas web, enfocado en crear soluciones funcionales y orientadas a negocio.
+
+## Tecnologías
+
+- PHP
+- Laravel
+- MySQL
+- JavaScript
+- HTML
+- CSS
+- Git
+- GitHub
+
+## Proyectos
+
+### BIG Sistema Empresarial
+Sistema ERP para gestión de clientes, contratos y pagos.
+
+https://github.com/Diego-Jimy/big-sistema-empresarial
+
+### ProductSelector Web
+Sistema web de ventas personalizadas.
+
+https://github.com/Diego-Jimy/productselector-web
+
+## Contacto
+
+Correo: Jimygonzalesortiz@gmail.com  
+Ubicación: Huancayo, Perú
